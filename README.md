@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harold Suquillo</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **Fullstack Web Application**
+- 🔭 I’m currently working on **A Project Exploration Web Application**
 
 - 🌱 I’m currently learning **AWS, Docker, TypeScript, Redux**
 
